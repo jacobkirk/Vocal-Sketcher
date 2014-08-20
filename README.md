@@ -5,7 +5,7 @@ Vocal Sketcher is an app created to transcribe audio input to MIDI data.
 
 It achieves this through the following steps: 
 
-1 - Create a recording with the device's microphone.
+1 - Create a recording with the device's microphone
 
 2 - Process this audio with an FFT algorithm
                                               
@@ -22,7 +22,3 @@ it is capable of transcribing simple sine tones (albeit with slightly off freque
 
 Almost all of the code is contained within vocalSketcherRebuilt/ViewController.m, with some supporting code in 
 ViewController.h
-
-
-
-Enjoy!
